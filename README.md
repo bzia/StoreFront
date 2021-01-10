@@ -1,6 +1,7 @@
 # StoreFront - An E-Commerce Platform
 
-
+Now Live @ https://storefrontwebapp.herokuapp.com/
+![screenshot](https://github.com/bzia/StoreFront/blob/master/storefrontPic.png)
 ## Features
 
 ## Usage
