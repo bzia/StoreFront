@@ -1,7 +1,8 @@
 # StoreFront - An E-Commerce Platform
 
-Inspiration - A MERN Stack Udemy Project Course
-Now Live @ https://storefrontwebapp.herokuapp.com/
+- Now Live @ https://storefrontwebapp.herokuapp.com/
+- Inspiration: A MERN Stack Udemy Project Course
+
 ## Main View
 ![screenshot](https://github.com/bzia/StoreFront/blob/master/storefrontPic.png)
 ## Features
