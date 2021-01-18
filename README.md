@@ -6,7 +6,10 @@
 ## Main View
 ![screenshot](https://github.com/bzia/StoreFront/blob/master/storefrontPic.png)
 ## Features
-
+- Product pagination + reviews/ratings
+- Checkout process involving a sequence of screens and the PayPal Payments API to may for created orders
+- Designated admins can sign in and make product/user/order changes straight to the DB
+  - This allows the store owner to mark orders as delivered and manage items inventory/stock aswell 
 ## Usage
 
 ### Env Variables
